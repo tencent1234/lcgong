@@ -1,2 +1,7 @@
 # lcgong
 isd
+
+
+checde c
+
+
